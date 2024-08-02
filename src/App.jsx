@@ -11,6 +11,7 @@ function App() {
         <TimerChalenge title={"Mid"} targtTime={5}/>
         <TimerChalenge title={"hard"} targtTime={10}/>
         <TimerChalenge title={"harder"} targtTime={15}/>
+        
       </div>
     </>
   )
